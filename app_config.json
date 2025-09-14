@@ -1,0 +1,18 @@
+{
+  "primary": [
+    "http://127.0.0.1:80",
+    "http://127.0.0.1:80",
+    "http://127.0.0.1:80",
+  ],
+  "backup": [
+    "http://127.0.0.1:80",
+   "http://127.0.0.1:80",
+   "http://127.0.0.1:80",
+  ],
+  "update": {
+    "version": "1.2.3",
+    "url": "https://cdn.example.com/releases/app-1.2.3.apk",
+    "force": ture,
+    "notes": "1) 修复已知问题\n2) 优化启动速度\n3) 稳定性提升"
+  }
+}
