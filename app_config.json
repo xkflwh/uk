@@ -12,7 +12,7 @@
   "update": {
     "version": "1.2.3",
     "url": "https://cdn.example.com/releases/app-1.2.3.apk",
-    "force": tru,
+    "force": true,
     "notes": "1) 修复已知问题\n2) 优化启动速度\n3) 稳定性提升"
   }
 }
