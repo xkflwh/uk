@@ -1,7 +1,7 @@
 {
   "domains": [
     "https://api-primary.example.com",
-    "https://api-backup1.example.com",
+    "http://192.168.0.3:80",
     "http://119.91.217.55:8080"
   ],
   "update": {
