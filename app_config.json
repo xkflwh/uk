@@ -4,11 +4,6 @@
     "http://192.168.0.3:80",
     "http://127.0.0.1:80222"
   ],
-  "backup": [
-    "http://192.168.0.3:80",
-   "http://127.0.0.1:80",
-   "http://127.0.0.1:80"
-  ],
   "update": {
     "version": "1.2.3",
     "url": "https://cdn.example.com/releases/app-1.2.3.apk",
