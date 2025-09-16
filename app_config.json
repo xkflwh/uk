@@ -1,13 +1,24 @@
 {
-  "primary": [
-    "http://127.0.0.1:80111",
-    "http://192.168.0.3:80",
-    "http://127.0.0.1:80222"
+  "domains": [
+    "https://api-primary.example.com",
+    "https://api-backup1.example.com",
+    "http://119.91.217.55:8080"
   ],
   "update": {
-    "version": "1.2.3",
-    "url": "https://cdn.example.com/releases/app-1.2.3.apk",
-    "force": true,
-    "notes": "1) 修复已知问题\n2) 优化启动速度\n3) 稳定性提升"
-  }
+    "version": "2025.09.16",
+    "android": {
+      "latest_version": "1.0.3",
+      "min_supported_version": "1.0.0",
+      "update_url": "https://example.com/app/releases/1.0.3.apk",
+      "changelog": "1) 启动流程优化 2) 问题修复",
+      "force": false
+    },
+    "notice": "国庆期间服务将进行扩容维护，敬请谅解。"
+  },
+  "extras": {
+    "ads_enabled": true,
+    "splash_timeout": 5
+  },
+  "timestamp": "2025-09-16T10:00:00Z",
+  "signature": "可选：如需做签名校验，可放置签名或哈希"
 }
