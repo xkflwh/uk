@@ -1,7 +1,11 @@
-[
-     "https://api-primary.example.com",
-    "http://192.168.0.3:80",
-    "http://119.91.217.55:8080"
-]
-
-
+{
+  "data": "["http://192.168.0.4/api/unified.php","http://192.168.0.3/api/unified.php","https://api.example.com/api/unified.php"]",
+  "signature": "Tk9fUEVSTV9SU0FfMDQwM2Y0ZTdjZWI2ZmI3OV9JTkRFUEVOREVOVAAA",
+  "algorithm": "Independent-RSA2048-SHA256",
+  "generator": "Complete No-Permission RSA Tool",
+  "timestamp": "2025-09-22 18:19:16",
+  "hash": "0403f4e7ceb6fb79ed80943aa5a54405d105ef91003b711f36f143ead0126eac",
+  "domains_count": 3,
+  "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFjYzBiNmJlMWVkZjEyMWNiNGVhYzhhZmJiYmIxZGUxYjQ1OThkZjM3ZDk2NzBjMWUxNzEzMTgwYjYwNDQ5YTg0UUlEQVFBQgotLS0tLUVORCBQVUJMSUMgS0VZLS0tLS0A",
+  "private_key_info": "Available separately for security"
+}
