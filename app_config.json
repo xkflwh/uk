@@ -1,12 +1,12 @@
 {
     "data": "[\"http://192.168.0.0.3:81\",\"http://192.168.0.0.3:82\",\"http://192.168.0.0.3:80\"]",
-    "signature": "sDKj9ct2pNp9Dp5+SkLxvGh0hDe7kcZNOHzyzDHgMDdJyCEW7ix02ii10eXk+9iC0X6+k+909L0pWVke4xqlUYjzxVfHWc+6J+qaR7HR4ENf8Jb11w2rio7Usk1igw6aT17KsTWBLMMAimUCucQb6euwIn8Eq0YnCqtK379u0PaNmrEXEbsRBsBC651BJfUUKBDNfALESnVpxxR7GwFWz3P09PwW21gZ28ZRxQS+x3rpI4I9UiZ+4IsTU/nzJusjZIxc+ICcrvmf/La9u5wK0JehJI4P8SOeXT8SiygTV0CoxeyaGkTkOfE7puopU7/jZlv/7ccLgyCRXls/VPBKZg==",
+    "signature": "UTKOxIuG6BXbzf2tolpCJUIhhFab/xDHzKzooKlQn16DP0IoWh7rAeLaJs5mdUVkN4SmW6vBVCTC9rKsaALzTlzBi7qL019+YYIR/NFVLFvTPGBy1WOYT3tum5m8jlGrgD0N9ROR6qbhxrq5NYCSLzi/7sdENKGvZTDucAi8fC0TZr3UQ78sxxy6UvOrso32SN7z3zP0UwWPUIvXhONxsUKRDRtM/WUkzI1ieGOhKx+Sg+QQNOkT0s3lKIsQ12jrlSg9KYcm6tM3xrBgIWxii40zQyE5VcC2HJ4ZkkyYvfu3LXZ3Kq86ilURL3Yo74k2iyM+6/sTmVssqWUjLUtS9w==",
     "algorithm": "RSA-SHA256",
-    "generator": "Production RSA Generator",
-    "timestamp": "2025-09-22 15:05:59",
+    "generator": "PHP Debug Tool",
+    "timestamp": "2025-09-22 15:22:57",
     "hash": "36aaccb9d0e7e74b987c89524385f1f4a44c183535bc43d5f94ea08e67f3b831",
     "domains_count": 3,
-    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3OQhL+ouNk87k5gp1U1BdwNFUZFAnkXAls/atDSmlrSPDv6iiIE+c4AKsKoXLPARpzBGF3Q6OJCE0Rpxf8gMv9I+EEPzh/QvtJTdM6rYQBugof4rJ4oDj8cP7UYxE3sh/HZ3M7EGoneyOY+q60MH76+/LbGJIc75M/3TLxsHx7zFl+MggLfuSdthBrYJ+oIaK9bEsU1fQQbB8BbyfbH6ke0EFx3PjSVSZxTE6nYAiMW5oxmfm+n9sdhDLEb1F3X1Mr8E/ky5x3PR+bvxEAyiIsKq0PweSwz7MlkhER8Cj0ku72lMkvcnGavauiOngWmhlkDT1MuckYyxK9vYautRzQIDAQAB",
+    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2rJW8GU0Q9VnfPfMaNogoljK2EDTHR6ixXo3JirL7g7p8shjD9VTpQaH5j/RRKabHMiYNplk8gik2t9gh44WZGf/oKcQXj07I7J0GhZ7GxXUD1Hv8x+UyTkyOuJaIAqzFIDBFoscu3IVuyNvDp3lrcG+t+Dsc1UNPmydyhGoNsUAxlnuc6ixy7QaT9UU0CDi+PwSFoI9LC2J1J710OzGI2u+veWjjwYYhmKezDYesX5W/JKCsIdisRXn1qDHU/bP40HF76+BD+qGrT/hYCOztogHrbH6EEJ4+6vR8Eg4/IVbiwyzzKFwJdkRz7fZLZM0Tn6mNYvUC1jUNI2Cn7WTtQIDAQAB",
     "key_size": 2048,
-    "environment": "PRODUCTION"
+    "note": "Android compatibility test"
 }
