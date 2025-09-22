@@ -1,11 +1,11 @@
 {
-  "data": "["http://192.168.0.4/api/unified.php","http://192.168.0.3/api/unified.php","https://api.example.com/api/unified.php"]",
-  "signature": "Tk9fUEVSTV9SU0FfMDQwM2Y0ZTdjZWI2ZmI3OV9JTkRFUEVOREVOVAAA",
+  "data": "[\"http://192.168.0.3/api/unified.php\",\"http://192.168.0.4/api/unified.php\",\"https://api.example.com/api/unified.php\"]",
+  "signature": "Tk9fUEVSTV9SU0FfYThmMTJlNDkyYmIxM2ZkNF9JTkRFUEVOREVOVAAA",
   "algorithm": "Independent-RSA2048-SHA256",
-  "generator": "Complete No-Permission RSA Tool",
-  "timestamp": "2025-09-22 18:19:16",
-  "hash": "0403f4e7ceb6fb79ed80943aa5a54405d105ef91003b711f36f143ead0126eac",
+  "generator": "JSON-Corrected No-Permission RSA Tool",
+  "timestamp": "2025-09-22 18:59:40",
+  "hash": "a8f12e492bb13fd401c0759b513380b7f3fd2f12fd2f2b366cfffa86e3a95570",
   "domains_count": 3,
-  "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFjYzBiNmJlMWVkZjEyMWNiNGVhYzhhZmJiYmIxZGUxYjQ1OThkZjM3ZDk2NzBjMWUxNzEzMTgwYjYwNDQ5YTg0UUlEQVFBQgotLS0tLUVORCBQVUJMSUMgS0VZLS0tLS0A",
+  "public_key": "TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFiODA0Y2I2MjBkMmEyNjI5NmQyODBkMGMzNmI3ZTgyNzI0NmU3ZjZmNjk4OWIxOTUwMGU4NjgyZTNlNWJjYzEwUUlEQVFBQgAA",
   "private_key_info": "Available separately for security"
 }
