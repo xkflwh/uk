@@ -1,11 +1,11 @@
 {
-  "data": "[\"http://192.168.0.3/api/unified.php\",\"http://192.168.0.4/api/unified.php\",\"https://api.example.com/api/unified.php\"]",
-  "signature": "Tk9fUEVSTV9SU0FfYThmMTJlNDkyYmIxM2ZkNF9JTkRFUEVOREVOVAAA",
-  "algorithm": "Independent-RSA2048-SHA256",
-  "generator": "JSON-Corrected No-Permission RSA Tool",
-  "timestamp": "2025-09-22 18:59:40",
-  "hash": "a8f12e492bb13fd401c0759b513380b7f3fd2f12fd2f2b366cfffa86e3a95570",
-  "domains_count": 3,
-  "public_key": "TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFiODA0Y2I2MjBkMmEyNjI5NmQyODBkMGMzNmI3ZTgyNzI0NmU3ZjZmNjk4OWIxOTUwMGU4NjgyZTNlNWJjYzEwUUlEQVFBQgAA",
-  "private_key_info": "Available separately for security"
+    "data": "[\"http://192.168.0.3\",\"http://192.168.0.4\",\"https://api.example.com\"]",
+    "signature": "fASOAqhhB+uYdMAX/iFMpj6D2O5x5TQD3dowpNpQPZ+stFRDgLr7RgNGcQQ4HVKaMIbfuK0usR29iM21gRd8+aEEbmsBGd+v4zkZeAe2mVdeQC0dLfjtV22IVL8YgmyK50rWoB45O8kYsxVC8+V5qSgCfSzOkpiQnukjzswT3F+j8b7Y5VIlrvpygmBcquhUOs9vLBq5VZ2UiB2DAjllVxOcPgZ4GaBR4RuMMDkA4vlTkYl6zJWheHO3lXisuyDK1l7KKwJlz66T8S4ILw4stp+oqHaWIr0XxXuTrUYh+CjTDfHtmf06c3sWGHdyRHlgvY/7I1jWjiWZhFbHCki6IQ==",
+    "algorithm": "RSA-SHA256",
+    "generator": "Production PHP RSA Tool",
+    "timestamp": "2025-09-22 14:59:28",
+    "hash": "ae3b5e745568415867c15d60c173fbfe0ac2b5fa46bb092ffba4ac8849c7a849",
+    "domains_count": 3,
+    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAytdFkhymrCRMzV5ERDHeTL+gFBA3Nd98bgxYfGzBsR5+g8QZK4qGas3paF5z+yupXvY92AXB0dyuVe2ijKblb5T1P9L4M5sokyYle+h0m6VRVvGFnAq8MIgvKTcQcOTLHYxhhGrt5I/rU/D8lFeNC/NnIeKCvo5xFMc91qK+w0unsZehYW/mvjgY9mcp/RO3zUWCLAbX2EHX/oZZiC/bwavgtc9DGU8FtPj/cLkBbS0l4QMOjgSwWMCLZx+IytcVsAnE7DJhzsuNj6xRvoMMedgPJyo5k/B9uYVZN+bmi3dNJDZoeGg0YVUgz2b0FdIn0g9gA+5BG8UhtsOOQjDNJQIDAQAB",
+    "key_size": 2048
 }
