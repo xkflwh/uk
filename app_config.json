@@ -1,12 +1,9 @@
 {
-    "data": "[\"http://192.168.0.0.3:81\",\"http://192.168.0.0.3:82\",\"http://192.168.0.0.3:80\"]",
-    "signature": "UTKOxIuG6BXbzf2tolpCJUIhhFab/xDHzKzooKlQn16DP0IoWh7rAeLaJs5mdUVkN4SmW6vBVCTC9rKsaALzTlzBi7qL019+YYIR/NFVLFvTPGBy1WOYT3tum5m8jlGrgD0N9ROR6qbhxrq5NYCSLzi/7sdENKGvZTDucAi8fC0TZr3UQ78sxxy6UvOrso32SN7z3zP0UwWPUIvXhONxsUKRDRtM/WUkzI1ieGOhKx+Sg+QQNOkT0s3lKIsQ12jrlSg9KYcm6tM3xrBgIWxii40zQyE5VcC2HJ4ZkkyYvfu3LXZ3Kq86ilURL3Yo74k2iyM+6/sTmVssqWUjLUtS9w==",
-    "algorithm": "RSA-SHA256",
-    "generator": "PHP Debug Tool",
-    "timestamp": "2025-09-22 15:22:57",
-    "hash": "36aaccb9d0e7e74b987c89524385f1f4a44c183535bc43d5f94ea08e67f3b831",
-    "domains_count": 3,
-    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2rJW8GU0Q9VnfPfMaNogoljK2EDTHR6ixXo3JirL7g7p8shjD9VTpQaH5j/RRKabHMiYNplk8gik2t9gh44WZGf/oKcQXj07I7J0GhZ7GxXUD1Hv8x+UyTkyOuJaIAqzFIDBFoscu3IVuyNvDp3lrcG+t+Dsc1UNPmydyhGoNsUAxlnuc6ixy7QaT9UU0CDi+PwSFoI9LC2J1J710OzGI2u+veWjjwYYhmKezDYesX5W/JKCsIdisRXn1qDHU/bP40HF76+BD+qGrT/hYCOztogHrbH6EEJ4+6vR8Eg4/IVbiwyzzKFwJdkRz7fZLZM0Tn6mNYvUC1jUNI2Cn7WTtQIDAQAB",
-    "key_size": 2048,
-    "note": "Android compatibility test"
+  "data": "[\"https://xkflwh.3618503289.workers.dev/\"]",
+  "signature": "lk7CBeLmnVCsDki3rfgMHwORMKiXznaiUlz38eQ2qstXyq8nmxRrqcYFSEXxOfoe7qfzpUTgzg3oim7+wtjpKLXhGuSwgtrgfNCBtUJ8lklQA322iJZgrlE0FAxX6IUtww4jXDGFiy0/RNS6hiqnqkjGVaaJJ5M1yPyuaQdBzojO9kqqpIeGTkoSLWkaw2SO1MPpZcXPMWz0azk21A3gnqUh/zIiQS0//2yTHAkt58Id4fMVp2ysueSkeOHdooIBIDXLNsPC+MzW8XP0PMvfymvffky7hGwlGmHRjY8Y/ZM7flYIVcZHno/MCjx8x8low7o3T518OfZj/yPkJLjPqA==",
+  "algorithm": "SHA256withRSA",
+  "key_size": 2048,
+  "timestamp": "2025-09-23 20:39:28",
+  "generator": "SecureConfigTool v1.0",
+  "note": "Public key is built into Android client"
 }
